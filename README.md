@@ -17,7 +17,7 @@ This is a simple and responsive password generator application built with React,
 To get started with the project, clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/Vishal-Agg1/Password-generator-.git
 cd password-generator
 npm install
 ```
